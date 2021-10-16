@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "LWCEstudio",
+  "namespace": "",
+  "sfdcLoginUrl": "https://independency-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
